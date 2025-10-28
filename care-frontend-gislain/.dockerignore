@@ -1,0 +1,13 @@
+# Node and React
+node_modules
+build
+
+# Cypress
+cypress
+cypress.json
+
+# Docker
+Dockerfile
+
+#git
+.gitignore
